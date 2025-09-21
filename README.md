@@ -3,3 +3,6 @@ A simple program used to control 180 degrees 9g micro servomotor with a potentio
 
 ## Key project file:
 `Control180DegServoWithPotentiometer.ino`
+
+## Link to cicruit:
+[🔗Circuit](https://www.tinkercad.com/things/5a0lRRwAGlU-controlpositionalservowithpotentiometer)
